@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 
 
-Dr. Zhou received the Outstanding Contribution Award from the Wiley Open Science Excellent Author Program in 2023 and the National Scholarship for Postgraduate granted by the Chinese Ministry of Education in 2020 and 2021. His research interests include deep learning and hyperspectral/high-resolution remote sensing image analysis.
+Dr. Zhou received the Outstanding Contribution Award from the Wiley Open Science Excellent Author Program in 2023, the Sun Yat-sen University President Scholarship in 2022, and the National Scholarship for Postgraduate granted by the Ministry of Education of the People's Republic of China (MOE) in 2020 and 2021. His research interests include deep learning and hyperspectral/high-resolution remote sensing image analysis.
